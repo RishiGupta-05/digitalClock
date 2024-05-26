@@ -15,7 +15,7 @@ body{
 }
 
 #clock{
-    font-family: monospace;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 6.5rem;
     font-weight: bold;
     text-align: center;
